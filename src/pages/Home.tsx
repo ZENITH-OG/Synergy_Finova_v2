@@ -54,7 +54,7 @@ const Home = () => {
   }, []);
 
   const redirectToUpstocks = () => {
-    window.open('https://zerodha.com/open-account/', '_blank');
+    window.open('https://upstocks.com/account/demat', '_blank');
   };
 
   // New function to handle expense tracker modal
